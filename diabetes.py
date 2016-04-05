@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file. (no kidding)
+This is a temporary script file.
 """
 
 me =  "asa"
